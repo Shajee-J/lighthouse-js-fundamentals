@@ -9,6 +9,7 @@
 
 // change the key after five repetitions:
 
+
 const chorus = "Let's dance!";
 let repeat = 0;
 while (repeat < 10) {
